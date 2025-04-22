@@ -8,6 +8,5 @@ public class DriverExample {
         driver.drive(bus);
         Taxi taxi = new Taxi();
         driver.drive(taxi);
-
     }
 }
